@@ -14,35 +14,401 @@ videos:
 {{< video-gallery "ccb69fa2-6392-7ade-d774-c12a6733de1e" >}}
 
 
-| SES # | TOPICS | SUPPORTING FILES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Module 1: Principles of Design (1–10)**{{< /td-colspan >}} |||
-| 1 | Introduction | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec01 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec01) |
-| 2 |  {{< br >}}{{< br >}} [10 Step Design Process; Dieter Rams]({{< baseurl >}}/resources/session-2-10-step-design-process-dieter-rams) {{< br >}}{{< br >}}  | [Lec02  (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec02) |
-| 3 |  {{< br >}}{{< br >}} [Research; Stakeholder Analysis]({{< baseurl >}}/resources/session-3-research-and-stakeholder-analysis) {{< br >}}{{< br >}}  | [Lec03 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec03) |
-| 4 | Articulating Design | [Lec04 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec04) |
-| 5 | Psychology | [Lec05 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec05) |
-| 6 | Psychology (Cont'd) | [Lec06 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec06) |
-| 7 | Dialogue Systems Technology | [Lec07 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec07) |
-| 8 | Usability | [Lec08 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec08) |
-| 9 | Branding | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec09 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec09) |
-| 10 | Dialogue System Design |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec10 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Angel Review (PDF - 1.2MB)]({{< baseurl >}}/resources/mitesd_051jf12_lec10anrev) {{< br >}}{{< br >}} [Live Weather Data with Angel (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10anlive) {{< br >}}{{< br >}} [Recording Audio (PDF - 1.2MB)]({{< baseurl >}}/resources/mitesd_051jf12_lec10recau) {{< br >}}{{< br >}} [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Texting with Angel (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10txtang) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Module 2: Design Is Everywhere (11–18)**{{< /td-colspan >}} |||
-| 11 | Creativity | [Lec11 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec11) |
-| 12 | Project Management | [Lec12 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec12) |
-| 13 | Guest Lecture | n/a |
-| 14 | Presentation Skills |  {{< br >}}{{< br >}} [Lec14 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec14_2) {{< br >}}{{< br >}}  |
-| 15 | Group Project Success | [Lec15 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec15prteam) |
-| 16 |  {{< br >}}{{< br >}} Innovation and Ethics; Build a Company {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lec16 Part1 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec16_1) {{< br >}}{{< br >}} [Lec16 Part 2 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec16_2) {{< br >}}{{< br >}}  |
-| 17 | Individual Presentations | n/a |
-| 18 | Individual Presentations (cont.) | n/a |
-| {{< td-colspan 3 >}}**Module 3: Group Project / Interdisciplinary Design (19–27)**{{< /td-colspan >}} |||
-| 19 |  {{< br >}}{{< br >}} Buy or Build; Process Improvement {{< br >}}{{< br >}}  | n/a |
-| 20 | Group Project Review Session | n/a |
-| 21 | Helvetica | n/a |
-| 22 | Guest Lecture | n/a |
-| 23 | Guest Lecture / Work-Class | n/a |
-| 24 | Guest Lecture | n/a |
-| 25 | Guest Lecture / Work-Class | n/a |
-| 26 | Group Project Preso. | n/a |
-| 27 | Group Project Preso. (cont.) | n/a
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module 1: Principles of Design (1–10)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec01 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec01)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[10 Step Design Process; Dieter Rams]({{< baseurl >}}/resources/session-2-10-step-design-process-dieter-rams)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Lec02  (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec02)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Research; Stakeholder Analysis]({{< baseurl >}}/resources/session-3-research-and-stakeholder-analysis)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Lec03 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec03)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Articulating Design
+{{< tdclose >}}
+{{< tdopen >}}
+[Lec04 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec04)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Psychology
+{{< tdclose >}}
+{{< tdopen >}}
+[Lec05 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec05)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Psychology (Cont'd)
+{{< tdclose >}}
+{{< tdopen >}}
+[Lec06 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec06)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Dialogue Systems Technology
+{{< tdclose >}}
+{{< tdopen >}}
+[Lec07 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec07)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Usability
+{{< tdclose >}}
+{{< tdopen >}}
+[Lec08 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec08)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Branding
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec09 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec09)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Dialogue System Design
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec10 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10)
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Angel Review (PDF - 1.2MB)]({{< baseurl >}}/resources/mitesd_051jf12_lec10anrev)
+
+[Live Weather Data with Angel (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10anlive)
+
+[Recording Audio (PDF - 1.2MB)]({{< baseurl >}}/resources/mitesd_051jf12_lec10recau)
+
+[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Texting with Angel (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10txtang)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module 2: Design Is Everywhere (11–18)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Creativity
+{{< tdclose >}}
+{{< tdopen >}}
+[Lec11 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Project Management
+{{< tdclose >}}
+{{< tdopen >}}
+[Lec12 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation Skills
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lec14 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec14_2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Group Project Success
+{{< tdclose >}}
+{{< tdopen >}}
+[Lec15 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec15prteam)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Innovation and Ethics; Build a Company
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lec16 Part1 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec16_1)
+
+[Lec16 Part 2 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec16_2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module 3: Group Project / Interdisciplinary Design (19–27)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Buy or Build; Process Improvement
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Group Project Review Session
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Helvetica
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture / Work-Class
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture / Work-Class
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Group Project Preso.
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Group Project Preso. (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
