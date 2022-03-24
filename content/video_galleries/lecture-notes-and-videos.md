@@ -44,7 +44,7 @@ SUPPORTING FILES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec01 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec01)
+[Lec01 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec01)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +148,7 @@ Usability
 Branding
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec09 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec09)
+[Lec09 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec09)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,15 +162,15 @@ Dialogue System Design
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec10 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10)
+[Lec10 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Angel Review (PDF - 1.2MB)]({{< baseurl >}}/resources/mitesd_051jf12_lec10anrev)
+[Angel Review (PDF - 1.2MB)]({{< baseurl >}}/resources/mitesd_051jf12_lec10anrev)
 
 [Live Weather Data with Angel (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10anlive)
 
 [Recording Audio (PDF - 1.2MB)]({{< baseurl >}}/resources/mitesd_051jf12_lec10recau)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Texting with Angel (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10txtang)
+[Texting with Angel (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10txtang)
 
 
 {{< tdclose >}}
